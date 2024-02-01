@@ -23,9 +23,9 @@ A rota recebe name, email e password dentro do corpo da requisição, salva o us
 exemplo de instanciamento passando no request.body:
 ```js 
 {
-	"name": "Felipe Barbosa",
-	"username": "felipe",
-	"password": "paladino"
+	"name": "usuario",
+	"username": "usuario",
+	"password": "senhausuario"
 }
 
 ```
